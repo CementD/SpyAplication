@@ -1,0 +1,20 @@
+00:00:00.782428 VirtualBox GUI VM Selector Window 7.0.6 r155176 win.amd64 (Jan 11 2023 16:38:38) release log
+00:00:00.782430 Log opened 2025-04-28T20:55:37.222192500Z
+00:00:00.782431 Build Type: release
+00:00:00.782433 OS Product: Windows 11
+00:00:00.782434 OS Release: 10.0.22631
+00:00:00.782434 OS Service Pack: 
+00:00:00.794712 DMI Product Name: 82B1
+00:00:00.798339 DMI Product Version: Lenovo Legion 5 15ARH05H
+00:00:00.798349 Firmware type: UEFI
+00:00:00.798637 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.798656 Host RAM: 8061MB (7.8GB) total, 3116MB (3.0GB) available
+00:00:00.798659 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.798660 Process ID: 28256
+00:00:00.798660 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.798844 Qt version: 5.15.2
+00:00:00.800382 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.834281 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:02.252509 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:51.436433 GUI: UICommon: Handling aboutToQuit request..
+00:04:52.806535 GUI: UICommon: aboutToQuit request handled!

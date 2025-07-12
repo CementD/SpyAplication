@@ -1,0 +1,29 @@
+00:00:00.502748 VirtualBox GUI VM Selector Window 7.0.6 r155176 win.amd64 (Jan 11 2023 16:38:38) release log
+00:00:00.502750 Log opened 2023-05-07T08:14:50.251283900Z
+00:00:00.502751 Build Type: release
+00:00:00.502754 OS Product: Windows 11
+00:00:00.502755 OS Release: 10.0.22621
+00:00:00.502755 OS Service Pack: 
+00:00:00.513828 DMI Product Name: 82B1
+00:00:00.517182 DMI Product Version: Lenovo Legion 5 15ARH05H
+00:00:00.517197 Firmware type: UEFI
+00:00:00.517483 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.517501 Host RAM: 8061MB (7.8GB) total, 3253MB (3.1GB) available
+00:00:00.517504 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.517504 Process ID: 7532
+00:00:00.517505 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.517629 Qt version: 5.15.2
+00:00:00.518457 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.539104 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.389692 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:10.232490 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:20.178987 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:36:41.763425 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:40:33.480534 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:40:35.968030 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:40:40.241903 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:41:19.950719 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:48:11.764173 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:49:23.437164 GUI: UIMediumEnumerator: Medium-enumeration finished!
+01:09:50.189546 GUI: UIMediumEnumerator: Medium-enumeration finished!
+01:09:50.190235 Log rotated - Log started 2023-05-07T08:14:50.251283900Z

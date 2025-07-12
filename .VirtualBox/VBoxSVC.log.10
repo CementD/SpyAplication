@@ -1,0 +1,192 @@
+00:00:00.003773 main     VirtualBox COM Server 7.0.6 r155176 win.amd64 (Jan 11 2023 16:38:38) release log
+00:00:00.003775 main     Log opened 2023-04-19T17:18:55.214161500Z
+00:00:00.003776 main     Build Type: release
+00:00:00.003779 main     OS Product: Windows 11
+00:00:00.003780 main     OS Release: 10.0.22621
+00:00:00.003781 main     OS Service Pack: 
+00:00:00.064799 main     DMI Product Name: 82B1
+00:00:00.074694 main     DMI Product Version: Lenovo Legion 5 15ARH05H
+00:00:00.074704 main     Firmware type: UEFI
+00:00:00.075322 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.075362 main     Host RAM: 8061MB (7.8GB) total, 1215MB available
+00:00:00.075370 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.075371 main     Process ID: 12000
+00:00:00.075372 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.133941          VirtualBox: object creation starts
+00:00:00.134120          Home directory: 'C:\Users\User\.VirtualBox'
+00:00:00.134206          Installed Drivers:
+00:00:00.138411            C:\WINDOWS\system32\DRIVERS\VBoxSup.sys (Version: 7.0.6.5176)
+00:00:00.138749            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 7.0.6.5176)
+00:00:00.139080            C:\WINDOWS\system32\DRIVERS\VBoxNetAdp6.sys (Version: 7.0.6.5176)
+00:00:00.139389            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 7.0.6.5176)
+00:00:00.150887          Loading settings file "C:\Users\User\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.154250          usbLibGetDevices: Starting USB device enumeration
+00:00:00.254609          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&5c85904&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:00:00.254687          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&5c85904&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:00:00.257056          usbLibGetDevices: Found 4 USB devices, 0 captured
+00:00:00.257122          USB: Unknown USB device detected (idVendor: 0x048d, idProduct: 0xc100)
+00:00:00.257139          USB: Unknown USB device detected (idVendor: 0x0bda, idProduct: 0xc123)
+00:00:00.358886          HostDnsMonitor: initializing
+00:00:00.365059          HostDnsMonitor: updating information
+00:00:00.365088          HostDnsMonitor: old information
+00:00:00.365088            no server entries
+00:00:00.365089            no domain set
+00:00:00.365089            no search string entries
+00:00:00.365090          HostDnsMonitor: new information
+00:00:00.365090            server 1: 192.168.88.1
+00:00:00.365091            server 2: 217.20.184.1
+00:00:00.365091            server 3: 217.20.160.32
+00:00:00.365091            no domain set
+00:00:00.365091            no search string entries
+00:00:00.400636          VD: VDInit finished with VINF_SUCCESS
+00:00:00.408941          Loading settings file "C:\Users\User\VirtualBox VMs\Semen\Semen.vbox" with version "1.19-windows"
+00:00:00.409748          VirtualBox: object created
+00:00:00.464209          Saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.466840          Finished saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml"
+00:00:00.467042          Saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.468933          Finished saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml"
+00:00:00.469152          Saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.471283          Finished saving settings file "C:\Users\User\.VirtualBox\VirtualBox.xml"
+00:00:01.539692          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:04.789846          Launched VM: 1356494320 pid: 1652 (0x674) frontend: GUI/Qt name: Semen
+00:00:04.807627          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:09.330599          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:09.818643          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:10.772340          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:00:11.085414          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:00:11.139170          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+00:00:12.177090          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:12.177492          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:12.210321          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:00:25.622098          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Paused)}, preserve=false aResultDetail=0
+00:00:31.816991          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Saving)}, preserve=false aResultDetail=0
+00:00:32.875871          Saving settings file "C:\Users\User\VirtualBox VMs\Semen\Semen.vbox" with version "1.19-windows"
+00:00:32.882814          Finished saving settings file "C:\Users\User\VirtualBox VMs\Semen\Semen.vbox"
+00:00:32.889298          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={Saved screenshot thumbnail data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:00:32.902146          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Saved)}, preserve=false aResultDetail=0
+00:00:32.904322          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={Saved screenshot thumbnail data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:00:33.274734 SaveState Saving settings file "C:\Users\User\VirtualBox VMs\Semen\Semen.vbox" with version "1.19-windows"
+00:00:33.278717 SaveState Finished saving settings file "C:\Users\User\VirtualBox VMs\Semen\Semen.vbox"
+00:00:33.286935          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Saved)}, preserve=false aResultDetail=0
+00:00:34.403427          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Saved)}, preserve=false aResultDetail=0
+00:00:37.354821          Launched VM: 1319592928 pid: 17956 (0x4624) frontend: GUI/Qt name: Semen
+00:00:37.363204          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Saved)}, preserve=false aResultDetail=0
+00:00:41.669541          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Saved)}, preserve=false aResultDetail=0
+00:00:42.094001          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:43.433638          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Restoring)}, preserve=false aResultDetail=0
+00:00:44.396517          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:44.396842          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:44.755806          Saving settings file "C:\Users\User\VirtualBox VMs\Semen\Semen.vbox" with version "1.19-windows"
+00:00:44.759388          Finished saving settings file "C:\Users\User\VirtualBox VMs\Semen\Semen.vbox"
+00:00:44.806101          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:19:36.234863          Saving settings file "C:\Users\User\VirtualBox VMs\Semen\Semen.vbox" with version "1.19-windows"
+00:19:36.242650          Finished saving settings file "C:\Users\User\VirtualBox VMs\Semen\Semen.vbox"
+00:19:36.273532          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:19:59.533020          Saving settings file "C:\Users\User\VirtualBox VMs\Semen\Semen.vbox" with version "1.19-windows"
+00:19:59.535768          Finished saving settings file "C:\Users\User\VirtualBox VMs\Semen\Semen.vbox"
+00:19:59.540919          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:21:09.610348          Saving settings file "C:\Users\User\VirtualBox VMs\Semen\Semen.vbox" with version "1.19-windows"
+00:21:09.613212          Finished saving settings file "C:\Users\User\VirtualBox VMs\Semen\Semen.vbox"
+00:21:09.637432          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:26:14.056197          Saving settings file "C:\Users\User\VirtualBox VMs\Semen\Semen.vbox" with version "1.19-windows"
+00:26:14.062250          Finished saving settings file "C:\Users\User\VirtualBox VMs\Semen\Semen.vbox"
+00:26:14.091422          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:26:17.937776          Saving settings file "C:\Users\User\VirtualBox VMs\Semen\Semen.vbox" with version "1.19-windows"
+00:26:17.940903          Finished saving settings file "C:\Users\User\VirtualBox VMs\Semen\Semen.vbox"
+00:26:17.961046          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:26:18.265420          Saving settings file "C:\Users\User\VirtualBox VMs\Semen\Semen.vbox" with version "1.19-windows"
+00:26:18.269616          Finished saving settings file "C:\Users\User\VirtualBox VMs\Semen\Semen.vbox"
+00:26:18.274377          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:54:22.344657 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:54:22.371997 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&1e6180ae&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:54:22.382371 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&5c85904&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:54:22.382458 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&5c85904&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:54:22.384985 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+00:54:22.387433 USBPROXY USB: Unknown USB device detected (idVendor: 0x174f, idProduct: 0x244c)
+00:55:43.921458 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:55:44.015966 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&5c85904&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:55:44.016056 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&5c85904&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:55:44.017293 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+00:55:44.823983 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:55:44.913000 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&5c85904&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+00:55:44.913181 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&5c85904&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:55:44.913949 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+01:10:25.581355          Saving settings file "C:\Users\User\VirtualBox VMs\Semen\Semen.vbox" with version "1.19-windows"
+01:10:25.588001          Finished saving settings file "C:\Users\User\VirtualBox VMs\Semen\Semen.vbox"
+01:10:25.642663          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:10:26.407758          Saving settings file "C:\Users\User\VirtualBox VMs\Semen\Semen.vbox" with version "1.19-windows"
+01:10:26.411559          Finished saving settings file "C:\Users\User\VirtualBox VMs\Semen\Semen.vbox"
+01:10:26.418183          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+01:34:03.929949 USBPROXY usbLibGetDevices: Starting USB device enumeration
+01:34:03.952959 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&1e6180ae&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+01:34:03.963902 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&5c85904&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+01:34:03.964056 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&5c85904&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+01:34:03.965851 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+01:34:03.966742 USBPROXY USB: Unknown USB device detected (idVendor: 0x174f, idProduct: 0x244c)
+01:35:02.759226 USBPROXY usbLibGetDevices: Starting USB device enumeration
+01:35:02.785651 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&1e6180ae&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+01:35:02.795789 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&5c85904&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+01:35:02.795930 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&5c85904&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+01:35:02.796328 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+01:54:44.693003 dns-monitor HostDnsMonitor: updating information
+01:54:44.693365 dns-monitor HostDnsMonitor: unchanged
+02:15:33.798496 USBPROXY usbLibGetDevices: Starting USB device enumeration
+02:15:33.799940 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&1e6180ae&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+02:15:33.810400 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&5c85904&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+02:15:33.823735 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+02:15:36.119223 USBPROXY usbLibGetDevices: Starting USB device enumeration
+02:15:36.142177 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&1e6180ae&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+02:15:36.152327 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&5c85904&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+02:15:36.166707 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+02:23:07.844122 USBPROXY usbLibGetDevices: Starting USB device enumeration
+02:23:07.870547 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&1e6180ae&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+02:23:07.880726 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&5c85904&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+02:23:07.880794 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&5c85904&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+02:23:07.881802 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+02:46:36.251368 USBPROXY usbLibGetDevices: Starting USB device enumeration
+02:46:36.297815 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&5c85904&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+02:46:36.297911 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&5c85904&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+02:46:36.300167 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+02:46:37.959522 USBPROXY usbLibGetDevices: Starting USB device enumeration
+02:46:37.982730 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&1e6180ae&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+02:46:37.993693 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&5c85904&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+02:46:37.993770 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&5c85904&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+02:46:37.994260 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+02:46:37.995312 USBPROXY USB: Unknown USB device detected (idVendor: 0x174f, idProduct: 0x244c)
+02:50:38.605294 USBPROXY usbLibGetDevices: Starting USB device enumeration
+02:50:38.630162 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&1e6180ae&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+02:50:38.641454 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&5c85904&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+02:50:38.641522 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&5c85904&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+02:50:38.641781 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+02:59:17.747570 USBPROXY usbLibGetDevices: Starting USB device enumeration
+02:59:17.770750 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&1e6180ae&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+02:59:17.779639 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&5c85904&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+02:59:17.779706 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&5c85904&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+02:59:17.782639 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+02:59:19.669297 USBPROXY usbLibGetDevices: Starting USB device enumeration
+02:59:19.692692 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&1e6180ae&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+02:59:19.702724 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&5c85904&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+02:59:19.702850 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&5c85904&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+02:59:19.703154 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+03:23:57.136671 USBPROXY usbLibGetDevices: Starting USB device enumeration
+03:23:57.160772 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&1e6180ae&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+03:23:57.172699 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&5c85904&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 3
+03:23:57.172785 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#5&5c85904&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+03:23:57.174248 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+03:46:28.599361          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Paused)}, preserve=false aResultDetail=0
+03:46:30.692913          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Saving)}, preserve=false aResultDetail=0
+03:46:44.448784          Saving settings file "C:\Users\User\VirtualBox VMs\Semen\Semen.vbox" with version "1.19-windows"
+03:46:44.458427          Finished saving settings file "C:\Users\User\VirtualBox VMs\Semen\Semen.vbox"
+03:46:44.467421          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={Saved screenshot thumbnail data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+03:46:44.516134          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Saved)}, preserve=false aResultDetail=0
+03:46:44.517186          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={Saved screenshot thumbnail data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+03:46:44.974445 SaveState Saving settings file "C:\Users\User\VirtualBox VMs\Semen\Semen.vbox" with version "1.19-windows"
+03:46:44.979537 SaveState Finished saving settings file "C:\Users\User\VirtualBox VMs\Semen\Semen.vbox"
+03:46:45.001271          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Saved)}, preserve=false aResultDetail=0
+03:46:45.973069          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Saved)}, preserve=false aResultDetail=0
+03:47:04.753968 main     VirtualBox: object deletion starts
+03:47:04.754106 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\User\VirtualBox VMs\Semen\Semen.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+03:47:04.759352 main     HostDnsMonitor: shutting down ...
+03:47:04.759792 main     HostDnsMonitor: shut down
+03:47:04.765312 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+03:47:04.766342 main     VirtualBox: object deleted
